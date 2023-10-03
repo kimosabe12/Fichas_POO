@@ -1,2 +1,2 @@
 # Fichas_POO
-Fichas Práticas de POO
+Fichas Práticas que irão ser realizadas ao longo do semestre
