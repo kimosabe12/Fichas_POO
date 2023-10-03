@@ -152,6 +152,8 @@ void seleciona (int &a, int &b, char c){
         }else{
             b-=3;
             return;
+
+
         }
     }
 
