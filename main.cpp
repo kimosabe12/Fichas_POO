@@ -140,14 +140,18 @@ void seleciona (int &a, int &b, char c){
     if(c=='m'){
         if(a<b){
             a=0;
+            return;
         }else{
             b=0;
+            return;
         }
     } else if(c=='M'){
         if(a>b){
             a-=3;
+            return;
         }else{
             b-=3;
+            return;
         }
     }
 
@@ -155,6 +159,6 @@ void seleciona (int &a, int &b, char c){
 
 int main(){
     int a = 5, b = 10;
-    seleciona(a, b, 'm');
+    seleciona(a, b, 'M');
     std :: cout << "a = " << a << " b = " << b; // aparece 0 10
      }
