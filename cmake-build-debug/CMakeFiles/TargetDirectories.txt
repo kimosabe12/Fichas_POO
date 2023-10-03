@@ -1,0 +1,3 @@
+C:/Users/diogo/Desktop/faculdade 4 ano/POO/ficha2/cmake-build-debug/CMakeFiles/ficha2.dir
+C:/Users/diogo/Desktop/faculdade 4 ano/POO/ficha2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diogo/Desktop/faculdade 4 ano/POO/ficha2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
